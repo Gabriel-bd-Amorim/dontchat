@@ -10,3 +10,14 @@ O projeto foi inspirado no site [dontpad.com](https://dontpad.com)
 ![Tela](./readme/image.png)
 
 
+[Google](https://google.com "Ir para o Google")
+Todo: 
+- [ ] banco de dados
+- [ ] rotas de usuarios
+- [ ] rotas de chats
+- [ ] Websocket para atualizar os chats em tempo real
+- [ ] sistema de apagar o chat depois de um tempo
+- [ ] clodflare para proteger contra ataques DDoS
+- [ ] propaganda
+- [ ] dockerizar o projeto
+- [ ] documentação
