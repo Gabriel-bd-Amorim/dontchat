@@ -9,10 +9,12 @@ O projeto foi inspirado no site [dontpad.com](https://dontpad.com)
 
 ![Tela](./readme/image.png)
 
+## Banco da Dados
+![Diagrama do banco de dados](./readme/database.png)
 
-[Google](https://google.com "Ir para o Google")
+[](https://google.com "Ir para o Google")
 Todo: 
-- [ ] banco de dados
+- [ X ] banco de dados
 - [ ] rotas de usuarios
 - [ ] rotas de chats
 - [ ] Websocket para atualizar os chats em tempo real

@@ -1,0 +1,4 @@
+# Ignora todos os .env em qualquer pasta
+**/.env
+**/.env.local
+**/.env.production
