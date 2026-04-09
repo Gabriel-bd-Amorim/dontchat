@@ -14,7 +14,7 @@ O projeto foi inspirado no site [dontpad.com](https://dontpad.com)
 
 [](https://google.com "Ir para o Google")
 Todo: 
-- [ X ] banco de dados
+- [X] banco de dados
 - [ ] rotas de usuarios
 - [ ] rotas de chats
 - [ ] Websocket para atualizar os chats em tempo real
